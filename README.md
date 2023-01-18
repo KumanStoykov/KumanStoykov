@@ -34,7 +34,3 @@ I'm Kuman Stoykov, full-stack developer. I'm an enthusiast of creative problem s
   <code><img alt="jest" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" /></code>
   <code><img alt="jest" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" /></code>
 <br><br>
-
-<p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumanstoykov&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&theme=transparent&hide=">
-</p>
