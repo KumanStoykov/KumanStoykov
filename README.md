@@ -1,4 +1,4 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 {𝚌𝚘𝚍𝚎𝚛𝚜}! 
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋 
 I'm Kuman Stoykov, full-stack developer. I'm an enthusiast of creative problem solving and products, with an ever-growing love for products with great results. I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems.
 
 ### 📫 How to reach me:
@@ -6,13 +6,6 @@ I'm Kuman Stoykov, full-stack developer. I'm an enthusiast of creative problem s
 [<img  alt="facebook" width="90px" height="25px" target="_blank" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/kumanstoykov/)
 [<img  alt="instagram" width="90px" height="25px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kumanstoykov/)
 [<img  alt="gmail" width="90px" height="25px" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kumanstoykov@gmail.com)
-<br><br>
-
-## I’m currently learning :
-
-<code><img alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /></code>
-<code><img alt="spring" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></code>
-<code><img alt="mysql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></code>
 <br><br>
 
 ## Technologies:
