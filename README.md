@@ -1,4 +1,4 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 👋 
+# Hi there 👋 
 I'm Kuman Stoykov, full-stack developer. I'm an enthusiast of creative problem solving and products, with an ever-growing love for products with great results. I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems.
 
 ### 📫 How to reach me:
@@ -8,7 +8,7 @@ I'm Kuman Stoykov, full-stack developer. I'm an enthusiast of creative problem s
 [<img  alt="gmail" width="90px" height="25px" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kumanstoykov@gmail.com)
 <br><br>
 
-## Technologies:
+## Tech Stack:
 
   <code><img alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></code>
   <code><img alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></code>
